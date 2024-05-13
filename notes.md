@@ -13,3 +13,7 @@ https://wortschatz.uni-leipzig.de/en/download/German#deu_news_2023
 ## Snug Parallel Corpus
 
 https://www.statmt.org/europarl/
+
+# Usage
+
+The corpora have to be placed in `./static/text/` as a directory with the name that has to be passed to the `load` command in the repl. Inside this directory there have to be the files containing the corpus.
