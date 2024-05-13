@@ -1,13 +1,14 @@
 pins = """
 ..... ..xx.
-...x. .xxxx
-..... ..x..
+..... ..xxx
+..... ...xx
 """
 
 [defaults]
-language = "english"
+# language = "english"
+language = "ger-en_20-80"
 trigram_precision = 1000
-keyboard_type = "ansi"
+keyboard_type = "colstag"
 
 [weights]
 heatmap = 1.70
